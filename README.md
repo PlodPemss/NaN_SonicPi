@@ -19,7 +19,7 @@ Click on the run button to test the loop. You can also change many options.
 
 ## Authors
 
-* **Yoann Lebris** *
+* **Yoann Lebris**
 
 ## License
 
